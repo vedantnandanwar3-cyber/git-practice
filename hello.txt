@@ -1,2 +1,4 @@
 hello.txt
 MY first repository
+Learning Git and GitHub
+
